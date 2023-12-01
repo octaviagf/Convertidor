@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 50px;
+}
+
+.text-center input {
+  display: block;
+  margin: auto;
+  margin-top: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  text-align: center;
+  border: solid 2px goldenrod;
+  border-radius: 100px;
+  height: 2.5rem;
+  width: 10rem;
+}
+
+.text-center .btn {
+  background-color: gainsboro;
+  border: solid 2px goldenrod;
+  border-radius: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  width: 8rem;
+  height: 2.5rem;
+  margin-top: 1rem;
+}
+
+.text-center .btn:hover {
+  background-color: gainsboro;
+  border: solid 2px green;
+}
+
+.text-center #result {
+  display: block;
+  margin: auto;
+  background-color: goldenrod;
+  height: 2rem;
+  width: 15rem;
+  border: solid 2px gainsboro;
+  border-radius: 100px;
+  margin-top: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  text-align: center;
+}
